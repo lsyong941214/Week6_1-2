@@ -24,10 +24,13 @@ public:
 
 int main()
 {
+	cout << "Solution 1 " << endl;
 	print(1);
 	print(2.345f);
 	print("Hello World");
+	cout << " " << endl;
 	////////////////////////////
+	cout << "Solution 2 " << endl;
 	Vector2D<int> my_vector;
 	Vector2D<float> my_vector2;
 	Vector2D<double> my_vector3;
